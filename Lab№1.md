@@ -1,11 +1,11 @@
-#Презентация
+# Презентация
 https://www.canva.com/design/DAGm_sMriks/Ns17aH4mLtfMhVeouvSnMg/edit
 
-#Набор данных для задания:
+# Набор данных для задания:
 Bank Marketing
 https://www.kaggle.com/datasets/henriqueyamahata/bankmarketing
 
-##Код выполнялся в среде - colab.research.google
+## Код выполнялся в среде - colab.research.google
 https://colab.research.google.com/drive/1s7l1jNSJRb8mqdeSx7Zjr8ydz18f4BH0#scrollTo=sy3vHhvnH5PO
 При запуске нужно загрузить данные.
 
