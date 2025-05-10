@@ -6,7 +6,7 @@ Bank Marketing
 https://www.kaggle.com/datasets/henriqueyamahata/bankmarketing
 
 ## Код выполнялся в среде - colab.research.google
-https://colab.research.google.com/drive/1s7l1jNSJRb8mqdeSx7Zjr8ydz18f4BH0#scrollTo=sy3vHhvnH5PO \
+[https://colab.research.google.com/drive/1s7l1jNSJRb8mqdeSx7Zjr8ydz18f4BH0#scrollTo=sy3vHhvnH5PO](https://colab.research.google.com/drive/1irQVfj_3Lh-v_jdh3KSKgPWwusoAKNgu?usp=sharing) \
 При запуске нужно загрузить данные, оставлю файл в этой же папке
 
 ```
